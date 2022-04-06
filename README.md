@@ -33,7 +33,7 @@
 
 - 🤣 K. seria a inicial do meu nome, como dever ter visto. 
 
-- 🔭 Estou trabalhando atualmente na [Paylab](https://paylab.com.br).
+- 💼 Estou trabalhando atualmente na [Paylab](https://paylab.com.br).
 
 - 🚀 Os projetos finalizados, estão no [meu site](https://stephan-lopes.github.io).
 
