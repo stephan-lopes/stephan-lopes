@@ -34,7 +34,7 @@
 
 - 🚀 Os projetos finalizados, estão no [meu site](https://stephan-lopes.github.io).
 
-- 📝 Tenho um blog! Caso queira dar uma olhada, basta acessar. [por aqui](https://stephan-lopes.github.io/blog/)
+- 📝 Tenho um blog! Caso queira dar uma olhada, basta acessar [por aqui](https://stephan-lopes.github.io/blog/).
 
 - 💬 Faça perguntas sobre **Terraform, Ansible, Go, Rundeck, AWS e GCP**.
 
