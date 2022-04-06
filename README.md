@@ -39,7 +39,7 @@
 
 - 📝 Tenho um blog! Caso queira dar uma olhada, basta acessar [por aqui](https://stephan-lopes.github.io/blog/).
 
-- 💬 Faça perguntas sobre **Terraform, Ansible, Go, Rundeck, AWS e GCP**.
+- 💬 Faça-me perguntas sobre **Terraform, Ansible, Go, Rundeck, AWS e GCP**.
 
 - 🔒 Sou um dos administradores do canal [Guia Anônima](https://guiaanonima.com).
 <br>
