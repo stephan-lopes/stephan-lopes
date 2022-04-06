@@ -23,6 +23,7 @@
 ![Graylog](https://img.shields.io/badge/-Graylog-05122A?style=flat&logo=graylog)&nbsp;
 ![Prometheus](https://img.shields.io/badge/-Prometheus-05122A?style=flat&logo=prometheus)&nbsp;
 ![Grafana](https://img.shields.io/badge/-Grafana-05122A?style=flat&logo=grafana)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 
 <br>
 
