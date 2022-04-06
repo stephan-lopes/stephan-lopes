@@ -6,13 +6,16 @@
 </p>
 <a href="https://stephan-lopes.github.io"><img align="right" height="590em" src="https://raw.githubusercontent.com/gist/stephan-lopes/26c930964dea34c8016f78f74359ebfc/raw/980774f172a51daf9c3fc011364b230bb90b3183/profile-card.svg"/></a>
 
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&)&nbsp;
 ![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=jenkins&logoColor=white)&nbsp;
 ![Ansible](https://img.shields.io/badge/-Ansible-05122A?style=flat&logo=ansible)&nbsp;
 ![Vagrant](https://img.shields.io/badge/-Vagrant-05122A?style=flat&logo=vagrant)&nbsp;
 ![Terraform](https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=terraform)&nbsp;
+![Packer](https://img.shields.io/badge/-Packer-05122A?style=flat&logo=packer)&nbsp;
 ![Consul](https://img.shields.io/badge/-Consul-05122A?style=flat&logo=consul)&nbsp;
 ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-05122A?style=flat&logo=digitalocean)&nbsp;
 ![Google Cloud Plataform](https://img.shields.io/badge/-GCP-05122A?style=flat&logo=google-cloud)&nbsp;
@@ -23,7 +26,6 @@
 ![Graylog](https://img.shields.io/badge/-Graylog-05122A?style=flat&logo=graylog)&nbsp;
 ![Prometheus](https://img.shields.io/badge/-Prometheus-05122A?style=flat&logo=prometheus)&nbsp;
 ![Grafana](https://img.shields.io/badge/-Grafana-05122A?style=flat&logo=grafana)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 
 <br>
 
