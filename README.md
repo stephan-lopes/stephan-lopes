@@ -31,7 +31,7 @@
 
 ## 🤔 Quem é K.?
 
-- 🤣 K. seria a inicial do meu nome, como deve ter visto. 
+- 🤣 K. seria a inicial do meu nome, como dever ter visto. 
 
 - 💼 Estou trabalhando atualmente na [Paylab](https://paylab.com.br).
 
