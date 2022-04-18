@@ -1,7 +1,6 @@
 
 <h2 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou o K.</h2>
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stephan-lopes&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephan-lopes&layout=compact&langs_count=7&theme=github_dark"/>
 </p>
 <a href="https://stephan-lopes.github.io"><img align="right" height="590em" src="https://raw.githubusercontent.com/gist/stephan-lopes/26c930964dea34c8016f78f74359ebfc/raw/980774f172a51daf9c3fc011364b230bb90b3183/profile-card.svg"/></a>
