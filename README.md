@@ -4,7 +4,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stephan-lopes&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephan-lopes&layout=compact&langs_count=7&theme=github_dark"/>
 </p>
-<a href="https://stephan-lopes.github.io"><img align="right" height="590em" src="https://raw.githubusercontent.com/gist/stephan-lopes/26c930964dea34c8016f78f74359ebfc/raw/980774f172a51daf9c3fc011364b230bb90b3183/profile-card.svg"/></a>
+<!-- <a href="https://stephan-lopes.github.io"><img align="right" height="590em" src="https://raw.githubusercontent.com/gist/stephan-lopes/26c930964dea34c8016f78f74359ebfc/raw/980774f172a51daf9c3fc011364b230bb90b3183/profile-card.svg"/></a> -->
+<a href="https://stephan-lopes.github.io"><img align="right" height="590em" src="https://raw.githubusercontent.com/gist/stephan-lopes/26c930964dea34c8016f78f74359ebfc/raw/8607819a0bccbbcfeaa8109b28265f0986a3bc78/profile-card.svg"/></a>
 
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
