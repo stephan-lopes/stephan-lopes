@@ -30,7 +30,7 @@
 
 <br>
 
-## 🤔 Quem é K.?
+<h2 align="center">🤔 Quem é K.?</h2>
 
 - 🤣 K. seria a inicial do meu nome, como deve ter visto. 
 
