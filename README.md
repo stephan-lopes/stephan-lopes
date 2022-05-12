@@ -1,5 +1,5 @@
 
-<h1 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="31.8px">, Eu sou o K.</h1>
+<h2 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou o K.</h2>
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stephan-lopes&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephan-lopes&layout=compact&langs_count=7&theme=github_dark"/>
@@ -30,7 +30,7 @@
 
 <br>
 
-<h2 align="center">🤔 Quem é K.?</h2>
+## 🤔 Quem é K.?
 
 - 🤣 K. seria a inicial do meu nome, como deve ter visto. 
 
