@@ -32,12 +32,12 @@
 <h2 align="center">🤔 Quem é K.?</h2>
 
 <ul>
-  <li>🤣 K. seria a inicial do meu nome, como deve ter visto.</li>
-  <li>💼 Estou trabalhando atualmente na <a href="https://paylab.com.br">Paylab</a>.</li>
-  <li>🚀 Os projetos finalizados, estão no <a href="https://stephan-lopes.github.io">meu site</a>.</li>
-  <li>📝 Tenho um blog! Caso queira dar uma olhada, basta acessar <a href="https://stephan-lopes.github.io/blog/">por aqui</a>.</li>
-  <li>💬 Faça-me perguntas sobre <b>Terraform, Ansible, Go, Rundeck, AWS e GCP</b>.</li>
-  <li>🔒 Sou um dos administradores do canal <a href="https://guiaanonima.com">Guia Anônima</a>.</li>
+  <li>🤣 K. seria a inicial do meu nome, como deve ter visto.</li><br>
+  <li>💼 Estou trabalhando atualmente na <a href="https://paylab.com.br">Paylab</a>.</li><br>
+  <li>🚀 Os projetos finalizados, estão no <a href="https://stephan-lopes.github.io">meu site</a>.</li><br>
+  <li>📝 Tenho um blog! Caso queira dar uma olhada, basta acessar <a href="https://stephan-lopes.github.io/blog/">por aqui</a>.</li><br>
+  <li>💬 Faça-me perguntas sobre <b>Terraform, Ansible, Go, Rundeck, AWS e GCP</b>.</li><br>
+  <li>🔒 Sou um dos administradores do canal <a href="https://guiaanonima.com">Guia Anônima</a>.</li><br>
 </ul>
 
 <br>
