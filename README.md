@@ -14,7 +14,7 @@
     <a href="https://stephan-lopes.github.io#gh-dark-mode-only"><img align="right" src="https://gist.githubusercontent.com/stephan-lopes/26c930964dea34c8016f78f74359ebfc/raw/ea2df8510db933babad7e99fdd151a8a436364c0/profile-card.svg" /></a>
   </div>
   <div class="light-theme">
-    <a href="https://stephan-lopes.github.io#gh-light-mode-only"><img align="right" src="https://gist.githubusercontent.com/stephan-lopes/26c930964dea34c8016f78f74359ebfc/raw/2198cd744dd22b410225b1996c400e9264167177/profile-light-card.svg" /></a>
+    <a href="https://stephan-lopes.github.io#gh-light-mode-only"><img align="right" src="https://gist.githubusercontent.com/stephan-lopes/26c930964dea34c8016f78f74359ebfc/raw/7fc04a8bb6cf95a28ff6939ea6aeeb0a4e5b3088/profile-light-card.svg" /></a>
   </div>
 </div>
 
