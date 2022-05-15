@@ -4,7 +4,7 @@
   <a><img height="180em" src="https://github-readme-stats.vercel.app/api?username=stephan-lopes&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" /></a>
   <a> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephan-lopes&layout=compact&langs_count=7&theme=github_dark" /></a>
 </p>
-<a href="https://stephan-lopes.github.io"><img align="right" src="https://gist.githubusercontent.com/stephan-lopes/26c930964dea34c8016f78f74359ebfc/raw/df0d92c061323b09f017b43684c61ae44cb8a2fb/profile-card.svg" /></a>
+<a href="https://stephan-lopes.github.io"><img align="right" src="https://gist.githubusercontent.com/stephan-lopes/26c930964dea34c8016f78f74359ebfc/raw/ea2df8510db933babad7e99fdd151a8a436364c0/profile-card.svg" /></a>
 
 <a href><img src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux" /></a>&nbsp;
 <a href><img src="https://img.shields.io/badge/-Go-05122A?style=flat&logo=go" /></a>&nbsp;
