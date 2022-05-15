@@ -92,15 +92,29 @@
 
 <div class="footer">
   <p align="center">
-    <a href="https://linkedin.com/in/kevenstephan" target="_blank">
-      <img align="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="linkedin" />
-    </a>
-    <a href="https://instagram.com/keven_slopes" target="_blank">
-      <img align="center" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram"
-        alt="instagram" />
-    </a>
-    <a href="https://github.com/stephan-lopes" target="_blank">
-      <img align="center" src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" alt="github" />
-    </a>
+    <div class="dark-theme">
+      <a href="https://linkedin.com/in/kevenstephan#gh-dark-mode-only" target="_blank">
+        <img align="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="linkedin" />
+      </a>
+      <a href="https://instagram.com/keven_slopes#gh-dark-mode-only" target="_blank">
+        <img align="center" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram"
+          alt="instagram" />
+      </a>
+      <a href="https://github.com/stephan-lopes#gh-dark-mode-only" target="_blank">
+        <img align="center" src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" alt="github" />
+      </a>
+    </div>
+    <div class="light-theme">
+      <a href="https://linkedin.com/in/kevenstephan#gh-light-mode-only" target="_blank">
+        <img align="center" src="https://img.shields.io/badge/-LinkedIn-F5F5F5?style=flat&logo=linkedin&logoColor=black" alt="linkedin" />
+      </a>
+      <a href="https://instagram.com/keven_slopes#gh-light-mode-only" target="_blank">
+        <img align="center" src="https://img.shields.io/badge/-Instagram-F5F5F5?style=flat&logo=instagram"
+          alt="instagram" />
+      </a>
+      <a href="https://github.com/stephan-lopes#gh-light-mode-only" target="_blank">
+        <img align="center" src="https://img.shields.io/badge/-GitHub-F5F5F5?style=flat&logo=github&logoColor=black" alt="github" />
+      </a>
+    </div>
   </p>
 </div>
