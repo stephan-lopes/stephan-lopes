@@ -1,13 +1,10 @@
 <h2 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">,
   Eu sou o K.</h2>
 <p align="center">
-  <a><img height="180em"
-      src="https://github-readme-stats.vercel.app/api?username=stephan-lopes&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" /></a>
-  <a> <img height="180em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephan-lopes&layout=compact&langs_count=7&theme=github_dark" /></a>
+  <a><img height="180em" src="https://github-readme-stats.vercel.app/api?username=stephan-lopes&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" /></a>
+  <a> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephan-lopes&layout=compact&langs_count=7&theme=github_dark" /></a>
 </p>
-<a href="https://stephan-lopes.github.io"><img align="right"
-    src="https://gist.githubusercontent.com/stephan-lopes/26c930964dea34c8016f78f74359ebfc/raw/df0d92c061323b09f017b43684c61ae44cb8a2fb/profile-card.svg" /></a>
+<a href="https://stephan-lopes.github.io"><img align="right" src="https://gist.githubusercontent.com/stephan-lopes/26c930964dea34c8016f78f74359ebfc/raw/df0d92c061323b09f017b43684c61ae44cb8a2fb/profile-card.svg" /></a>
 
 <a href><img src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux" /></a>&nbsp;
 <a href><img src="https://img.shields.io/badge/-Go-05122A?style=flat&logo=go" /></a>&nbsp;
@@ -36,11 +33,11 @@
 
 <ul>
   <li>🤣 K. seria a inicial do meu nome, como deve ter visto.</li>
-  <li>💼 Estou trabalhando atualmente na [Paylab](https://paylab.com.br).</li>
-  <li>🚀 Os projetos finalizados, estão no [meu site](https://stephan-lopes.github.io).</li>
-  <li>📝 Tenho um blog! Caso queira dar uma olhada, basta acessar [por aqui](https://stephan-lopes.github.io/blog/).</li>
-  <li>💬 Faça-me perguntas sobre **Terraform, Ansible, Go, Rundeck, AWS e GCP**.</li>
-  <li>🔒 Sou um dos administradores do canal [Guia Anônima](https://guiaanonima.com).</li>
+  <li>💼 Estou trabalhando atualmente na <a href="https://paylab.com.br">Paylab</a>.</li>
+  <li>🚀 Os projetos finalizados, estão no <a href="https://stephan-lopes.github.io">meu site</a>.</li>
+  <li>📝 Tenho um blog! Caso queira dar uma olhada, basta acessar <a href="https://stephan-lopes.github.io/blog/">por aqui</a>.</li>
+  <li>💬 Faça-me perguntas sobre <b>Terraform, Ansible, Go, Rundeck, AWS e GCP</b>.</li>
+  <li>🔒 Sou um dos administradores do canal <a href="https://guiaanonima.com">Guia Anônima</a>.</li>
 </ul>
 
 <br>
