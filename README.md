@@ -99,8 +99,8 @@
 <br>
 
 <div class="footer">
-  <p align="center">
-    <div class="dark-theme">
+  <div class="dark-theme">
+    <p align="center">
       <a href="https://linkedin.com/in/kevenstephan#gh-dark-mode-only" target="_blank">
         <img align="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="linkedin" />
       </a>
@@ -111,8 +111,10 @@
       <a href="https://github.com/stephan-lopes#gh-dark-mode-only" target="_blank">
         <img align="center" src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" alt="github" />
       </a>
-    </div>
-    <div class="light-theme">
+    </p>
+  </div>
+  <div class="light-theme">
+    <p align="center">
       <a href="https://linkedin.com/in/kevenstephan#gh-light-mode-only" target="_blank">
         <img align="center" src="https://img.shields.io/badge/-LinkedIn-F5F5F5?style=flat&logo=linkedin&logoColor=black" alt="linkedin" />
       </a>
@@ -123,6 +125,6 @@
       <a href="https://github.com/stephan-lopes#gh-light-mode-only" target="_blank">
         <img align="center" src="https://img.shields.io/badge/-GitHub-F5F5F5?style=flat&logo=github&logoColor=black" alt="github" />
       </a>
-    </div>
-  </p>
+    </p>
+  </div>
 </div>
