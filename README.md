@@ -5,14 +5,14 @@
 <div class="vercel-analytics">
   <div class="dark-theme">
     <p align="center">
-      <a><img height="180em" src="https://github-readme-stats.vercel.app/api?username=stephan-lopes&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" /></a>
-      <a> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephan-lopes&layout=compact&langs_count=7&theme=github_dark" /></a>
+      <a href="https://github.com/stephan-lopes#gh-dark-theme-only"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=stephan-lopes&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" /></a>
+      <a href="https://github.com/stephan-lopes#gh-dark-theme-only"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephan-lopes&layout=compact&langs_count=7&theme=github_dark" /></a>
     </p>
   </div>
   <div class="light-theme">
     <p align="center">
-      <a><img height="180em" src="https://github-readme-stats.vercel.app/api?username=stephan-lopes&show_icons=true&theme=github&include_all_commits=true&count_private=true" /></a>
-      <a> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephan-lopes&layout=compact&langs_count=7&theme=github" /></a>
+      <a href="https://github.com/stephan-lopes#gh-light-theme-only"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=stephan-lopes&show_icons=true&theme=github&include_all_commits=true&count_private=true" /></a>
+      <a href="https://github.com/stephan-lopes#gh-light-theme-only"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephan-lopes&layout=compact&langs_count=7&theme=github" /></a>
     </p>
   </div>
 </div>
