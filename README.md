@@ -1,5 +1,5 @@
 <div class="title">
-  <h2 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">,Eu sou o K.</h2>
+  <h2 align="center">Olá <img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" height="40px">,Eu sou o K.</h2>
 </div>
 
 <div class="vercel-analytics">
