@@ -1,5 +1,5 @@
 <div class="title">
-  <h2 align="center">Olá <img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" height="40px" width="38.6345381526">,Eu sou o K.</h2>
+  <h2 align="center">Olá 👋, Eu sou o K.</h2>
 </div>
 
 <div class="vercel-analytics">
