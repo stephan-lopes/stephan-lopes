@@ -18,10 +18,10 @@
 
 <div class="card">
   <div class="dark-theme">
-    <a href="https://stephan-lopes.github.io#gh-dark-mode-only"><img align="right" src="https://gist.githubusercontent.com/stephan-lopes/26c930964dea34c8016f78f74359ebfc/raw/fab73228eb801371e0e19df937c96283f3285021/profile-card.svg" /></a>
+    <a href="https://stephan-lopes.github.io#gh-dark-mode-only"><img align="right" src="https://raw.githubusercontent.com/gist/stephan-lopes/26c930964dea34c8016f78f74359ebfc/raw/eb3d8673348d3b0eea216be068ebe7d2e5b05df1/profile-card.svg" /></a>
   </div>
   <div class="light-theme">
-    <a href="https://stephan-lopes.github.io#gh-light-mode-only"><img align="right" src="https://gist.githubusercontent.com/stephan-lopes/26c930964dea34c8016f78f74359ebfc/raw/fab73228eb801371e0e19df937c96283f3285021/profile-light-card.svg" /></a>
+    <a href="https://stephan-lopes.github.io#gh-light-mode-only"><img align="right" src="https://raw.githubusercontent.com/gist/stephan-lopes/26c930964dea34c8016f78f74359ebfc/raw/eb3d8673348d3b0eea216be068ebe7d2e5b05df1/profile-light-card.svg" /></a>
   </div>
 </div>
 <div class="badges">
