@@ -1,18 +1,17 @@
 <div class="title">
   <h2 align="center">Olá 👋, Eu sou o K.</h2>
 </div>
-
 <div class="vercel-analytics">
   <div class="dark-theme">
     <p align="center">
-      <a href="https://github.com/stephan-lopes#gh-dark-mode-only"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=stephan-lopes&show_icons=false&theme=github_dark&include_all_commits=true&count_private=true" /></a>
-      <a href="https://github.com/stephan-lopes#gh-dark-mode-only"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephan-lopes&layout=compact&langs_count=7&theme=github_dark&hide=javascript,css,html" /></a>
+      <a href="https://github.com/stephan-lopes#gh-dark-mode-only"><img height="180em" src="https://readme.linuxops.info/api?username=stephan-lopes&show_icons=false&theme=github_dark&include_all_commits=true&count_private=true" /></a>
+      <a href="https://github.com/stephan-lopes#gh-dark-mode-only"><img height="180em" src="https://readme.linuxops.info/api/top-langs/?username=stephan-lopes&layout=compact&langs_count=7&theme=github_dark&hide=javascript,css,html" /></a>
     </p>
   </div>
   <div class="light-theme">
     <p align="center">
-      <a href="https://github.com/stephan-lopes#gh-light-mode-only"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=stephan-lopes&show_icons=falsee&theme=github&include_all_commits=true&count_private=true" /></a>
-      <a href="https://github.com/stephan-lopes#gh-light-mode-only"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephan-lopes&layout=compact&langs_count=7&theme=github&hide=javascript,html,css" /></a>
+      <a href="https://github.com/stephan-lopes#gh-light-mode-only"><img height="180em" src="https://readme.linuxops.info/api?username=stephan-lopes&show_icons=falsee&theme=github&include_all_commits=true&count_private=true" /></a>
+      <a href="https://github.com/stephan-lopes#gh-light-mode-only"> <img height="180em" src="https://readme.linuxops.info/api/top-langs/?username=stephan-lopes&layout=compact&langs_count=7&theme=github&hide=javascript,html,css" /></a>
     </p>
   </div>
 </div>
@@ -25,7 +24,6 @@
     <a href="https://stephan-lopes.github.io#gh-light-mode-only"><img align="right" src="https://gist.githubusercontent.com/stephan-lopes/26c930964dea34c8016f78f74359ebfc/raw/fab73228eb801371e0e19df937c96283f3285021/profile-light-card.svg" /></a>
   </div>
 </div>
-
 <div class="badges">
   <div class="dark-theme">
     <a href="https://www.linux.org/#gh-dark-mode-only"><img src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux" /></a>&nbsp;
@@ -73,15 +71,12 @@
     <a href="https://prometheus.io/#gh-light-mode-only"><img src="https://img.shields.io/badge/-Grafana-F5F5F5?style=flat&logo=grafana" /></a>&nbsp;
 </div>
 
-<br>
-
 <div class="description">
   <div class="description-title">
     <h2 align="center">🤔 Quem é K.?</h2>
   </div>
 
   <br>
-
   <div class="description-list">
     <ul>
       <li>🤣 K. seria a inicial do meu nome, como deve ter visto.</li>
@@ -94,12 +89,13 @@
   </div>
 </div>
 
-<br>
-<br>
-<br>
-
 <div class="footer">
   <div class="dark-theme">
+     <p align="center">
+      <a href="https://github.com/stephan-lopes#gh-dark-mode-only" target="_blank">
+        <img align="center" width="50px" src="https://cdn3.emoji.gg/emojis/7550-cat-spin.gif" />
+      </a>
+    </p>
     <p align="center">
       <a href="https://linkedin.com/in/kevenstephan#gh-dark-mode-only" target="_blank">
         <img align="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="linkedin" />
@@ -114,6 +110,11 @@
     </p>
   </div>
   <div class="light-theme">
+    <p align="center">
+      <a href="https://github.com/stephan-lopes#gh-light-mode-only" target="_blank">
+        <img align="center" width="50px" src="https://cdn3.emoji.gg/emojis/4429-catspin.gif" />
+      </a>
+    </p>
     <p align="center">
       <a href="https://linkedin.com/in/kevenstephan#gh-light-mode-only" target="_blank">
         <img align="center" src="https://img.shields.io/badge/-LinkedIn-F5F5F5?style=flat&logo=linkedin&logoColor=black" alt="linkedin" />
