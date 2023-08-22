@@ -18,7 +18,7 @@
 
 <div class="card">
   <div class="dark-theme">
-    <a href="https://stephan-lopes.github.io#gh-dark-mode-only"><img align="right" src="https://raw.githubusercontent.com/gist/stephan-lopes/26c930964dea34c8016f78f74359ebfc/raw/aa87b5220e0e8232c3bbe5173e93e0dfce75e693/new.svg" /></a>
+    <a href="https://stephan-lopes.github.io#gh-dark-mode-only"><img align="right" src="https://raw.githubusercontent.com/gist/stephan-lopes/26c930964dea34c8016f78f74359ebfc/raw/4a55bb9ca192f7cca75f1be4cde61f1b5eb2bcda/profile-card.svg" /></a>
   </div>
   <div class="light-theme">
     <a href="https://stephan-lopes.github.io#gh-light-mode-only"><img align="right" src="https://raw.githubusercontent.com/gist/stephan-lopes/26c930964dea34c8016f78f74359ebfc/raw/eb3d8673348d3b0eea216be068ebe7d2e5b05df1/profile-light-card.svg" /></a>
