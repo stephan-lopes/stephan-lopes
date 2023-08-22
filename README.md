@@ -81,7 +81,7 @@
     <ul>
       <li>🤣 K. seria a inicial do meu nome, como deve ter visto.</li>
       <li>💼 Estou trabalhando atualmente na <a href="https://www.nttdata.com">NTT Data</a>.</li>
-      <li>🚀 Os projetos finalizados, estão no <a href="https://stephan-lopes.github.io">meu site</a>.</li>
+      <li>🚀 Os projetos finalizados, estão no <a href="https://stephan.linuxops.info">meu site</a>.</li>
       <li>📝 Tenho um blog! Caso queira dar uma olhada, basta acessar <a href="https://stephan-lopes.github.io/blog/">por aqui</a>.</li>
       <li>💬 Faça-me perguntas sobre <b>Terraform, Ansible, Go, Rundeck, AWS e GCP</b>.</li>
       <li>🔒 Sou um dos administradores do canal <a href="https://guiaanonima.com">Guia Anônima</a>.</li>
