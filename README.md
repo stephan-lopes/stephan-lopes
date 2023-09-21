@@ -11,6 +11,7 @@
   </div>
 </div>
 <br>
+<br>
 <div class="badges">
   <div class="dark-theme">
     <p align="center">
