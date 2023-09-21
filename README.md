@@ -1,6 +1,7 @@
 <div class="title">
   <h2 align="center">Olá 👋, Eu sou o K.</h2>
 </div>
+
 <div class="card">
   <div class="dark-theme">
     <a href="https://stephan-lopes.github.io#gh-dark-mode-only"><img align="right" src="https://raw.githubusercontent.com/gist/stephan-lopes/26c930964dea34c8016f78f74359ebfc/raw/4a55bb9ca192f7cca75f1be4cde61f1b5eb2bcda/profile-card.svg" /></a>
@@ -9,6 +10,7 @@
     <a href="https://stephan-lopes.github.io#gh-light-mode-only"><img align="right" src="https://raw.githubusercontent.com/gist/stephan-lopes/26c930964dea34c8016f78f74359ebfc/raw/eb3d8673348d3b0eea216be068ebe7d2e5b05df1/profile-light-card.svg" /></a>
   </div>
 </div>
+<br>
 <div class="badges">
   <div class="dark-theme">
     <a href="https://www.linux.org/#gh-dark-mode-only"><img src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux" /></a>&nbsp;
