@@ -1,21 +1,6 @@
 <div class="title">
   <h2 align="center">Olá 👋, Eu sou o K.</h2>
 </div>
-<div class="vercel-analytics">
-  <div class="dark-theme">
-    <p align="center">
-      <a href="https://github.com/stephan-lopes#gh-dark-mode-only"><img height="180em" src="https://readme.linuxops.info/api?username=stephan-lopes&show_icons=false&theme=github_dark&include_all_commits=true&count_private=true" /></a>
-      <a href="https://github.com/stephan-lopes#gh-dark-mode-only"><img height="180em" src="https://readme.linuxops.info/api/top-langs/?username=stephan-lopes&layout=compact&langs_count=7&theme=github_dark&hide=javascript,css,html" /></a>
-    </p>
-  </div>
-  <div class="light-theme">
-    <p align="center">
-      <a href="https://github.com/stephan-lopes#gh-light-mode-only"><img height="180em" src="https://readme.linuxops.info/api?username=stephan-lopes&show_icons=falsee&theme=github&include_all_commits=true&count_private=true" /></a>
-      <a href="https://github.com/stephan-lopes#gh-light-mode-only"> <img height="180em" src="https://readme.linuxops.info/api/top-langs/?username=stephan-lopes&layout=compact&langs_count=7&theme=github&hide=javascript,html,css" /></a>
-    </p>
-  </div>
-</div>
-
 <div class="card">
   <div class="dark-theme">
     <a href="https://stephan-lopes.github.io#gh-dark-mode-only"><img align="right" src="https://raw.githubusercontent.com/gist/stephan-lopes/26c930964dea34c8016f78f74359ebfc/raw/4a55bb9ca192f7cca75f1be4cde61f1b5eb2bcda/profile-card.svg" /></a>
