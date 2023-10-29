@@ -35,10 +35,11 @@
     <a href="https://www.graylog.org/products/open-source#gh-dark-mode-only"><img src="https://img.shields.io/badge/-Graylog-05122A?style=flat&logo=graylog" /></a>&nbsp;
     <a href="https://prometheus.io/#gh-dark-mode-only"><img src="https://img.shields.io/badge/-Prometheus-05122A?style=flat&logo=prometheus" /></a>&nbsp;
     <a href="https://prometheus.io/#gh-dark-mode-only"><img src="https://img.shields.io/badge/-Grafana-05122A?style=flat&logo=grafana" /></a>&nbsp;
-    </h2>
+    </p>
   </div>
 
   <div class="light-theme">
+    <p align="center">
     <a href="https://www.linux.org/#gh-light-mode-only"><img src="https://img.shields.io/badge/-Linux-F5F5F5?style=flat&logo=linux" /></a>&nbsp;
     <a href="https://go.dev/#gh-light-mode-only"><img src="https://img.shields.io/badge/-Go-F5F5F5?style=flat&logo=go" /></a>&nbsp;
     <a href="https://git-scm.com/#gh-light-mode-only"><img src="https://img.shields.io/badge/-Git-F5F5F5?style=flat&logo=git" /></a>&nbsp;
@@ -59,8 +60,9 @@
     <a href="https://www.graylog.org/products/open-source#gh-light-mode-only"><img src="https://img.shields.io/badge/-Graylog-F5F5F5?style=flat&logo=graylog" /></a>&nbsp;
     <a href="https://prometheus.io/#gh-light-mode-only"><img src="https://img.shields.io/badge/-Prometheus-F5F5F5?style=flat&logo=prometheus" /></a>&nbsp;
     <a href="https://prometheus.io/#gh-light-mode-only"><img src="https://img.shields.io/badge/-Grafana-F5F5F5?style=flat&logo=grafana" /></a>&nbsp;
+    </p>
 </div>
-
+</div>
 <div class="description">
   <div class="description-title">
     <h2 align="center">🤔 Quem é K.?</h2>
