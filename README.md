@@ -103,11 +103,6 @@
   </div>
   <div class="light-theme">
     <p align="center">
-      <a href="https://github.com/stephan-lopes#gh-light-mode-only" target="_blank">
-        <img align="center" width="50px" src="https://cdn3.emoji.gg/emojis/4429-catspin.gif" />
-      </a>
-    </p>
-    <p align="center">
       <a href="https://linkedin.com/in/kevenstephan#gh-light-mode-only" target="_blank">
         <img align="center" src="https://img.shields.io/badge/-LinkedIn-F5F5F5?style=flat&logo=linkedin&logoColor=black" alt="linkedin" />
       </a>
