@@ -155,14 +155,14 @@
       </picture>
     </a>
     <a id="instagram" href="https://instagram.com/keven_slopes" target="_blank">
-      <picture id="linkedin">
+      <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram">
         <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Instagram-F5F5F5?style=flat&logo=instagram">
         <img  alt="Shows badge link to instagram">
       </picture>
     </a>
     <a id="github" href="https://github.com/stephan-lopes" target="_blank">
-      <picture id="linkedin">
+      <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github">
         <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-GitHub-F5F5F5?style=flat&logo=github&logoColor=black">
         <img  alt="Shows badge link to github">
