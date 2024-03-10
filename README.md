@@ -113,6 +113,12 @@
                 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Grafana-F5F5F5?style=flat&logo=grafana">
                 <img alt="Show a badge">
             </picture>
+            <picture id="argocd">
+                <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/ArgoCD-05122A?style=flat&logo=argo&logoColor=orange">
+                <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/ArgoCD-F5F5F5?style=flat&logo=argo&logoColor=orange">
+                <img alt="Show a badge">
+            </picture>
+            <picture id="kubernetes">
                 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Kubernetes-05122A?style=flat&logo=kubernetes&logoColor=light-blue">
                 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Kubernetes-F5F5F5?style=flat&logo=kubernetes&logoColor=light-blue">
                 <img alt="Show a badge">
