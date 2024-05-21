@@ -16,7 +16,7 @@
             <picture id="linux">
                 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Linux-F5F5F5?style=flat&logo=linux">
                 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux">
-                <img alt="Show a badge">
+                <img src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux" alt="Show a badge">
             </picture>
             <picture id="go-lang">
                 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Go-F5F5F5?style=flat&logo=go">
