@@ -129,7 +129,6 @@
     <div class="description">
         <h3 id="title" align="center">🤔 Quem é K.?</h3>
         <ul id="list">
-            <li>👹 K. seria a inicial do meu nome, como deve ter visto.</li>
             <li>💼 Estou trabalhando atualmente na <a href="https://www.nttdata.com">NTT Data</a>.</li>
             <li>🚀 Os projetos finalizados, estão no <a href="https://stephan.linuxops.info">meu site</a>.</li>
             <li>📝 Tenho um blog! Caso queira dar uma olhada, basta acessar <a href="https://stephan-lopes.github.io/blog/">por aqui</a>.</li>
