@@ -155,7 +155,7 @@
     </a>
     <a id="instagram" href="https://instagram.com/keven_slopes" target="_blank">
       <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Instagram-F5F5F5?style=flat&logo=instagram">
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Instagram-F5F5F5?style=flat&logo=instagram&logoColor=black">
         <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram">
         <img src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" alt="Shows badge link to instagram">
       </picture>
