@@ -148,9 +148,9 @@
   <p class="social-media" align="center">
     <a id="linkedin" href="https://linkedin.com/in/kevenstephan" target="_blank">
       <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-LinkedIn-F5F5F5?style=flat&logo=linkedin&logoColor=black">
-        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin">
-        <img src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="Shows badge link to linkedin">
+        <source media="(prefers-color-scheme: light)" srcset="https://gist.githubusercontent.com/stephan-lopes/df6b5fbbf5e055bff234b91678b1c421/raw/0be42bce20156533ac0a183187cb8a962db2a664/linkedin-dark.svg">
+        <source media="(prefers-color-scheme: dark)" srcset="https://gist.githubusercontent.com/stephan-lopes/df6b5fbbf5e055bff234b91678b1c421/raw/58b820ea7cc3f7f05e585645b271bd7f13757327/linkedin.svg">
+        <img src="https://gist.githubusercontent.com/stephan-lopes/df6b5fbbf5e055bff234b91678b1c421/raw/0be42bce20156533ac0a183187cb8a962db2a664/linkedin-dark.svg" alt="Shows badge link to linkedin">
       </picture>
     </a>
     <a id="instagram" href="https://instagram.com/keven_slopes" target="_blank">
