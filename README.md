@@ -4,9 +4,9 @@
 <main>
     <div class="card-profile">
         <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gist/stephan-lopes/26c930964dea34c8016f78f74359ebfc/raw/c7f28a50e2d2a76f2069739f475596a343a3a8d2/profile-card.svg">
+            <source media="(prefers-color-scheme: dark)" srcset="https://gist.githubusercontent.com/stephan-lopes/26c930964dea34c8016f78f74359ebfc/raw/8bb65486a2e93b25aa922d2eb43fe3c3f71dc5e1/profile-card-2.0.svg">
             <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gist/stephan-lopes/26c930964dea34c8016f78f74359ebfc/raw/c7f28a50e2d2a76f2069739f475596a343a3a8d2/profile-light-card.svg">
-            <img align="right" src="https://raw.githubusercontent.com/gist/stephan-lopes/26c930964dea34c8016f78f74359ebfc/raw/c7f28a50e2d2a76f2069739f475596a343a3a8d2/profile-card.svg" alt="Shows a profile image about the owner of this github profile.">
+            <img align="right" src="https://gist.githubusercontent.com/stephan-lopes/26c930964dea34c8016f78f74359ebfc/raw/8bb65486a2e93b25aa922d2eb43fe3c3f71dc5e1/profile-card-2.0.svg" alt="Shows a profile image about the owner of this github profile.">
         </picture>
     </div>
     <br>
