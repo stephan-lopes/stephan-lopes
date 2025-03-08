@@ -129,7 +129,7 @@
     <div class="description">
         <h3 id="title" align="center">🤔 Um pouco sobre mim...</h3>
         <ul id="list">
-            <li>💼 Estou trabalhando atualmente na <a href="https://www.nttdata.com">NTT Data</a>.</li>
+            <li>💼 Estou trabalhando atualmente no <a href="https://www.itau.com.br/">Itaú</a>.</li>
             <li>🚀 Os projetos finalizados, estão no <a href="https://stephan.linuxops.info">meu site</a>.</li>
             <li>📝 Tenho um blog! Caso queira dar uma olhada, basta acessar <a href="https://stephan-lopes.github.io/blog/">por aqui</a>.</li>
             <li>💬 Faça-me perguntas sobre <b>Terraform, Ansible, Go, Rundeck, AWS e Kubernetes</b>.</li>
